@@ -182,7 +182,7 @@ nav {
 
 .about-me__picture {
     width: 100%;
-    transform: scale(1.15);
+    transform: scale(1.25) translateY(-5px)
 }
 
 .about-me__info--title {
